@@ -1,0 +1,38 @@
+Prontera — lugares de interés
+=============================
+
+Resumen de tono
+---------------
+Prontera es orden que chirría: piedra limpia por fuera, engranajes sucios por dentro. Es ciudad de gremios y prestigio, pero también de sellos, favores y silencios comprados.
+
+Lugares clave (para escenas)
+----------------------------
+1) Universidad de Prontera (claustros y talleres)
+   - Sensorial: tiza húmeda, metal caliente, bibliotecas con cera de sello.
+   - Uso: investigación, contactos académicos, rumores “legales”.
+   - Pista típica: anotaciones marginales, préstamos desaparecidos, registro de acceso.
+
+2) Casa Fortimer (residencia)
+   - Sensorial: pasillos que absorben sonido; retratos que “miran” demasiado.
+   - Uso: misterio doméstico, secreto noble, objetos antiguos fuera de lugar.
+   - Pista típica: el libro de Geren, símbolos repetidos, cartas rotas, cajas con doble fondo.
+
+3) Gremio de Aventureros (tabla de encargos)
+   - Sensorial: madera gastada, hierro en remaches, promesas escritas a mano.
+   - Uso: contratar, encubrir, “hacer oficial” una expedición.
+   - Pista típica: nombres tachados; recompensas que no coinciden con el peligro real.
+
+4) Cuartel / destacamento de Guardia
+   - Sensorial: aceite de armas, botas, disciplina con miedo debajo.
+   - Uso: presión legal, vigilancia, interrogatorios, órdenes contradictorias.
+   - Pista típica: informes censurados; soldado que volvió “tocado” de una zona.
+
+5) Mercado y callejones (capa pública)
+   - Sensorial: humo de grasa, gritos, monedas, olor a lluvia guardada.
+   - Uso: compra de materiales (artificio), mensajeros, colas, seguimiento.
+
+6) Nodos de “La Cadena” (capa sombra)
+   - Sensorial: tinta y brea, uñas negras, puertas que no figuran.
+   - Uso: salvoconductos, sellos, falsificaciones, “arreglos” con guardia.
+   - Pista típica: un sello falso perfecto, pero con un error ritual (señal).
+

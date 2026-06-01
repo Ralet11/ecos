@@ -1,0 +1,42 @@
+Costa Oscura - ganchos, clocks y pistas
+=======================================
+
+Ganchos activos (ahora)
+-----------------------
+1) "Consecuencias del ritual saboteado"
+   - Pregunta: que sobrevivio en la Torre del Don: Algius, Peltre, nobles, hijos dormidos, pilares, contratos o restos del ancla.
+   - Hecho jugado: Rakion hizo explotar el ritual con su granada restante y 2.5 bolsas de polvora/dinamita minera; Zik impacto a Algius en la cabeza.
+   - Consecuencia: el ritual quedo interrumpido o destruido, pero el estado exacto de Algius sigue pendiente.
+
+2) Reaccion al musgo oscuro (Zik)
+   - Pregunta: que es el musgo y quien lo distribuye (Alquimista del Colmillo / minas / Andii).
+   - Pistas: frascos negros, marcas en lengua, olor a brea + ozono.
+   - Costo: las Cadenas protegen, pero exigen un servicio.
+
+3) Costa Oscura bajo Prontera
+   - Pregunta: la toma de la ciudad fue liberacion, ocupacion o ambas cosas segun quien mire.
+   - Pistas: tropas en zepelin, comandante del martillo gigante, registros de Peltre, colaboracionistas y restos Andii.
+   - Precio: Prontera puede exigir explicaciones, reclutar a la party o quedarse con pruebas que la party queria.
+
+4) Brujo Andi tiefling oscuro
+   - Pregunta: si sobrevivio, se retiro, quedo herido o cumplio su objetivo.
+   - Pistas: muerte del celestial a lo lejos, oscuridad total en el puerto, hijos dormidos por magia y rastro de Lucario.
+   - Riesgo: amenaza de persecucion futura o marca sobre Zik por haber usado el celestial.
+
+5) Molino Darsen / Castillo Colmillo Oscuro
+   - Pregunta: que pacto **Harold Darsen** con **Maverus Zarnamor**, como se rompe la maldicion y que queda de **Leon** y **Lady Darsen**.
+   - Pistas: relatos borrachos de Leon, testimonio de Lady Darsen, papeles viejos del linaje y rastros de **Colmillos**.
+   - Ganancia: primera gran instancia fuerte; si liberan las tierras, los Darsen se vuelven aliados poderosos.
+   - Riesgo: nigromancia, hombres vueltos bestias y un castillo que ya no responde a la logica humana.
+
+Clocks recomendados (para tension)
+----------------------------------
+- Clock A: "Costa Oscura cierra puertas" (toque de queda + controles).
+- Clock B: "Andii plantan un ancla" (piedra negra aparece en mina/Torre del Don).
+- Clock C: "Peltre identifica a la party" (por testigos, sello, botin, superviviente).
+
+Pistas reutilizables (motivos)
+------------------------------
+- Sal, brea y humedad = capa humana (industria, corrupcion).
+- Piedra negra = capa extraplanar (clavos).
+- Cadenas = capa de deuda (pactos).

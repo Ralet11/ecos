@@ -1,0 +1,55 @@
+Rakion Altarion (Séptimo Chien)
+==============================
+
+Identidad
+---------
+- Nombre legal: Séptimo Chien
+- Alias/registro de gremio: Rakion Altarion
+- Raza: Humano
+- Nivel: 5
+- Clase: Artificer 5
+- Feat: Suertudo
+
+Resumen público
+--------------
+Artificiero de Prontera. Pragmatismo extremo y pensamiento "fuera de la caja". Compensa límites mágicos con ingeniería, trucos y herramientas.
+
+Habilidades homebrew / custom
+-----------------------------
+1) Escupefuego
+   - Arma a distancia estilo escopeta.
+   - Daño: 1d10 + DES + INT (según lo narrado por el DM).
+   - Capacidad: 6 municiones.
+   - Recarga: requiere construir cargadores con elementos.
+   - Falla/atasco: si el d20 del ataque es < 5, se atasca.
+
+2) Balas / municiones rúnicas
+   - Agregan daño y efecto (detallar tipos disponibles cuando estén definidos).
+
+3) Escudo protector
+   - Bonus: +5 a CA (condiciones/limitaciones: por definir).
+
+Historia (base)
+--------------
+- Nació como el "séptimo" hijo: sin presagios ni gloria; su nombre es su turno al nacer.
+- Padre ausente (Tadeus Chien). En prueba de canalización "no encendió del todo" la esfera familiar.
+- Criado por abuelo materno (Altarion), con acceso a biblioteca; búsqueda de aceptación vía conocimiento.
+- Desde joven crea trucos/artefactos para emular magia (apertura/cerraduras; ignición/munición).
+- Viaja a Prontera a estudiar artificio; se une al gremio de aventureros por curiosidad y ambición.
+
+Vínculos clave (campaña)
+------------------------
+- Conocía a Algius Fortimer por años de estudio en la Universidad de Prontera.
+- En el campamento del pantano evita ser reconocido por Pelligrim (bravucón del pasado).
+
+Ganchos y conflictos (DM)
+-------------------------
+- Conflicto familiar abierto: "sexto hermano" (clérigo de la religión del fuego).
+
+Estado actual (campaña)
+-----------------------
+- Viajo Prontera -> Hachoverde; combate contra elfos del bosque de hierro (uso del escupefuego).
+- Incursion a cueva de orcos musgosos; Zik muere y vuelve (pacto).
+- En Costa Oscura / minas: combate tras traicion de Salitre y Pereza; gasto sus 2 unguentos musgosos para levantar a Lucario y Paleas.
+- En la Torre del Don: rompio el mecanismo de su escudo al intentar repararlo, fabrico 2 cartuchos simples y luego uso su granada restante mas 2.5 bolsas de polvora/dinamita minera para destruir o torcer el ritual del banquete.
+- Estado tras sesion 6: vivo, nivel 5, sin granadas ni polvora/dinamita minera registrada, con el mecanismo del escudo roto y 2 cartuchos simples restantes.

@@ -1,0 +1,48 @@
+Lucario (tiefling Edur) — bardo
+===============================
+
+Identidad
+---------
+- Nombre: Lucario
+- Raza/origen: Tiefling (Tiste Edur)
+- Nivel: 5
+- Clase: Bardo 5
+- Rasgo dominante: siempre ebrio para olvidar (disociación funcional).
+- Objeto clave: laúd rúnico construido por Algius Fortimer.
+
+Resumen público
+--------------
+Músico tiefling con pasado imposible y un aura que "tira" de entidades y rastreadores. Carismático/errático por alcohol; carga culpas viejas.
+
+Cosmología personal (según Historia de Lucario)
+-----------------------------------------------
+Tres sendas/linajes tiefling:
+- Kurald Galain: oscuridad primordial (Tiste Andi).
+- Kurald Rashan: luz absoluta (Tiste Liosan).
+- Kurald Emurlahn: sombra/consecuencia (Tiste Edur). Lucario nace aquí.
+
+Eventos clave:
+- Hace ~200 años: impacto cósmico en el Plano Medio; "las sendas temblaron"; Emurlahn se resquebraja.
+- Invasión oportunista: Six’ars (quitinosos, matriarcales, tecnología extraña).
+- Traición: Vaelor Andi asesina a Ashael Liosan.
+- En la muerte, Ashael se refugia en el alma de Lucario (no como guía, sino como pena).
+
+Vínculos de campaña
+-------------------
+- Algius Fortimer: constructor del laúd rúnico (deuda/afecto).
+- Libro antiguo en cuarto de Geren: Lucario es el único que puede leerlo.
+- Su magia deja rastros: atrajo a Paleas (rastreador) y a Andii.
+
+Notas DM (tono oscuro)
+----------------------
+- La "Luz" dentro de Lucario no consuela: ilumina para revelar y atraer.
+- Cada uso de magia del eco deja rastro: Paleas lo ve; otros lo sienten y lo siguen.
+
+Estado actual (campaña)
+-----------------------
+- En pantano Hachoverde: combate con Andii atraídos por su magia.
+- En ritual de Geren: el portal mostró ejército Andii preparándose.
+- En Costa Oscura / minas: quedo desmayado por bola de fuego desde pergamino (Salitre), luego Rakion lo levanto con un unguento musgoso.
+- En la Torre del Don: su magia atrajo a un tiefling negro; la party lo mato y Lucario tomo su armadura (**+4 CA**, **-10 pies de movimiento**).
+- En la huida y batalla del puerto: ayudo a matar guardias calentando su metal dentro de una Fog Cloud y luego uso **1 pocion de polimorfia** contra el ultimo caballero Andi.
+- Estado tras sesion 6: vivo, nivel 5, con armadura del tiefling negro y 3 pociones de polimorfia restantes en el inventario comun.

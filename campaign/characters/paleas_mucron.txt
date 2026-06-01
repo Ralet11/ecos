@@ -1,0 +1,38 @@
+Paleas Mucron (aasimar) — cazador
+=================================
+
+Identidad
+---------
+- Nombre: Paleas Mucron
+- Raza: Aasimar
+- Nivel: 5
+- Clase: Cazador 5 (detalle de subclase/rasgos: por completar)
+- Origen: Imperio insular de Gavenor
+- Formación: inquisidor / rastreador de magia
+
+Resumen público
+--------------
+Cazador disciplinado entrenado para leer rastros mágicos y contener el "eco". Camina con una contradicción viva: fue hecho para apagar magia, pero algo en él se encendió.
+
+Marco de mundo (su especialidad)
+--------------------------------
+- Magia no natural = magia del eco (estudiable; no divina/demoníaca/ritual/druídica).
+- Tras la Fractura (~200 años), el eco se vuelve rastreable y explotable.
+- Doctrina de Gavenor: toda magia deja un rastro distintivo; ellos pueden verlo.
+
+Historia (base)
+---------------
+- Cuarto hijo de un alto ministro de Gavenor; entrenado como inquisidor.
+- Bautismo en desierto Krag Oman: persiguiendo rebeldes, su pelotón "pierde la cabeza"; Paleas llega solo al final.
+- Encuentro con un NPC del desierto (Paleas lo desconoce): ritual de "vasija/fusión" de almas; conversación que le abre la mente.
+- Desde entonces Paleas puede usar un poco de magia; queda dividido entre obedecer al imperio o independizarse.
+- Cruza a Westamar; detecta un rastro mágico muy raro y poderoso: Lucario; lo sigue hasta Hachoverde.
+
+Estado actual (campaña)
+-----------------------
+- Se sumó a la party en el pantano tras la emboscada Andii.
+- En el ritual de Geren: un Andii gigante hunde su cabeza en el portal; Paleas ve un ejército Andii preparándose.
+- En Costa Oscura / minas: quedo desmayado por bola de fuego de pergamino (Salitre), luego Rakion lo levanto con un unguento musgoso.
+- En la Torre del Don: cubrio junto a Lucario al guardia que quedo vigilando mientras Rakion y Zik preparaban el sabotaje del ritual.
+- En la huida: sobrevivio al escape por minas, al combate del puerto y a la llegada de Prontera.
+- Estado tras sesion 6: vivo, nivel 5.

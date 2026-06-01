@@ -1,0 +1,73 @@
+# Cronologia de campana (viva)
+
+Ultima actualizacion (fuera de juego): **2026-04-07**.
+
+## Como leer/editar
+- Esta cronologia usa un marcador relativo: **Dia 0 = convocatoria en Prontera por Lady Valet**.
+- Si en tu mesa existe calendario propio, podes agregar una columna "Fecha en mundo".
+- Mantener cada entrada en 1-3 lineas y actualizar "Hilos abiertos".
+
+## Linea de tiempo
+
+| Tiempo | Lugar | Hecho | Consecuencia inmediata |
+|---|---|---|---|
+| Dia -7 | Prontera -> exterior | **Algius Fortimer** y su hijo mayor **Geren** salen "por negocios". | Lady Valet queda en casa con sus otros hijos. |
+| Dia 0 | Prontera | Lady Valet convoca a **Zik / Rakion / Lucario**: noticia de ataque; aparece el cuerpo de Geren cerca de un campamento arqueologico; Algius desaparecido. | La party acepta investigar. |
+| Dia 0 | Casa Fortimer | Inspeccion: en habitacion de Geren hallan **libro antiquisimo** (ilegible salvo por Lucario) con anotaciones y simbolos; copian un simbolo. | Primera pista concreta; objeto de alto valor narrativo. |
+| Dia 0 | Prontera | Se confirma vinculo de Algius con **Don Nito Peltre** (capo de **Costa Oscura**, ex capital de Westamar). | Costa Oscura se vuelve destino probable. |
+| Dia 1 (noche) | Camino al pantano Hachoverde | Encuentro con monticulos (posibles madrigueras); acampan en descampado; ataque de **Elfos del Bosque de Hierro**. | Victoria costosa; loot: **capa de algas** + **punales ceremoniales elficos**. |
+| Dia 2 | Campamento paleo-arqueologico (Hachoverde) | Conocen equipo: **Albert O'Brien** (paleontologo), **Shila** (cazadora elfa y lobo Camba), **Guizhio** (shampur), guardia de Prontera; guardia nerviosa; **Ebano** volvio "loco" del pantano. | Eligen a **Albert** como guia y aliado. |
+| Dia 2 | Campamento | Shila advierte: los **cuchillos elficos** son sacrilegio (no deben usarse). | Se instala tabu con costo futuro. |
+| Dia 2 | Campamento | Presencia de avanzada de guardia; aparece **Pelligrim**, bravuccon del pasado de Rakion; Zik lo camufla y evita reconocimiento. | Amenaza social latente. |
+| Dia 3 | Pantano Hachoverde | Llegan a entrada de cuevas de **orcos musgosos**; Albert pide ayuda (han matado gente del equipo). | Party acepta incursion. |
+| Dia 3 | Cueva (orcos musgosos) | Combate duro (hechicero + 2 orcos). **Zik muere** por ola de hechiceria. | Trauma; giro sobrenatural. |
+| Dia 3 | Senda del Embosado -> Plano roto | Zik ve puerta o catedral de almas; una fuerza lo arrastra; cadenas lo atan; en el **Plano roto de las Cadenas** el **Dios Encadenado** lo toma como vasallo y lo revive. | Pacto: "**Romper eslabones**". |
+| Dia 3 | Cueva (salida) | Loot: **varita de canamo** (dormir o forzar ataque) + **unguento verde curativo**; salen huyendo. | Recurso tactico y recuperacion. |
+| Dia 3 | Exterior del pantano | Aparece **Paleas Mucron** (inquisidor de Gavenor; rastreador de magia) siguiendo el rastro de Lucario. | Se suma como 4 integrante. |
+| Dia 3 | Pantano | Emboscada por **2 Andii** atraidos por magia usada en la cueva; combate; Paleas ayuda; se forja alianza. | Confirmacion: la magia de Lucario atrae entidades. |
+| Dia 4 | Sitio del ritual (Hachoverde) | Encuentran **3 pilares negros** y a **Geren** partido en 3; 2 pilares sangran, 1 no (ritual roto). Al tocar, se reactiva: abre portal breve; sale Andii gigante; hunde cabeza de Paleas en portal; vision de **ejercito Andii** preparandose. | Escala de amenaza; evidencia de invasion organizada. |
+| Dia 4 | Sitio del ritual | Cierran portal; derrotan al Andii con gran costo. Deduccion: el ritual requiere que un familiar sacrifique a su hijo; todo apunta a **Algius**. | Sospecha central: Algius como actor o forzado. |
+| Dia 4 | Decision | Envian a **Albert** de regreso a Prontera con informacion; party marcha a **Costa Oscura**. | Se corta apoyo; se abre linea politica y militar. |
+| Dia 5 | Costa Oscura | La ciudad se arma para guerra; presencia Andii; confraternizacion. | Antagonismo humano + Andii alineados. |
+| Dia 5 | Costa Oscura (Taberna del Tuerto) | Se alojan en taberna de la familia **Bonasera** (Leandro, Sony, Dedos, Primo). Acuerdan dormir si "se encargan" de un maleante que no paga. | Favor menor con consecuencias. |
+| Dia 5 | Costa Oscura (Taberna del Tuerto) | El maleante resulta ser **Marco Bellucci**, sobrino de **Nito Peltre**. La party lo mata, pero le extrae info: **habra una cena importante** esa noche. | Riesgo de represalia + nueva ventana de infiltracion. |
+| Dia 5 | Costa Oscura (Taberna del Tuerto) | Encuentran a un borracho pelirrojo: **Leon Darsen**, lord caido en desgracia y hermano mayor de **Lady Darsen**. Su casa cayo cuando **Harold Darsen** pacto con **Maverus Zarnamor**, y el antiguo **Molino Darsen** termino convertido en el **Castillo Colmillo Oscuro**. | Se abre el primer gran dungeon fuerte de la party; si rompen la maldicion, los Darsen pueden volverse aliados poderosos. |
+| Dia 5 | Minas de Costa Oscura | Buscan acceso a la Torre del Don por minas. Contactan capataz **Salitre** y ayudante **Pereza**. | Entrada sucia aceptada; riesgo de traicion. |
+| Dia 5 | Minas | Traicion: combate. Salitre fuerza **musgo oscuro** en la boca de Zik (rechazado por las Cadenas). Luego usa pergamino: **bola de fuego** deja a **Lucario** y **Paleas** desmayados. | Estado actual: party comprometida en tuneles. |
+| Dia 5 | Minas | **Rakion** gasta sus **2 unguentos musgosos** para curar por completo a **Lucario** y **Paleas**. Saquean a Salitre y Pereza: **manojo de llaves**, **mapas de minas**, **50 po** y **2 granadas explosivas**. | La party recupera movilidad y obtiene acceso util a puertas internas. |
+| Dia 5 | Minas | Cruzan la compuerta y llegan a una camara con **6 compuertas**; los mapas sugieren que **3** llevan a la Torre. Eligen la mas vieja, cubierta de telaranas. | Ruta antigua hacia el castillo; amenaza organica, no solo humana. |
+| Dia 5 | Cuevas viejas | Avanzan hasta una cueva final y derrotan a **una arana grande y dos crias**. | Aseguran una ruta secundaria y encuentran un escondite util. |
+| Dia 5 | Atico de pociones (Torre del Don) | Emergen en un atico o deposito de pociones. Loot: **4 pociones de polimorfia**, **3 pociones de plasma negro vivo** y **2 pociones amarillas sin identificar**. | La party entra por fin en la Torre y obtiene recursos peligrosos. |
+| Dia 5 | Atico de pociones | **Rakion** intenta reparar su escudo, falla y rompe el mecanismo; fabrica **2 cartuchos de balas simples** y gasta **1 granada** contra la arana. En la cueva previa consigue **3 bolsas de dinamita minera**, pero ya uso media. | Queda con menos herramientas defensivas, pero con explosivos de alto impacto. |
+| Dia 5 | Torre del Don (atico y pasillos) | **Lucario** intenta curarse y atrae a un **tiefling negro**. La party lo masacra al entrar y roba su armadura. Lucario gana **+4 CA** con la armadura completa, pero pierde **10 pies de movimiento**. | Confirman que la magia sigue atrayendo amenazas; Lucario queda mas protegido y menos movil. |
+| Dia 5 | Torre del Don (reconocimiento) | **Zik** explora y detecta **3 guardias** cerca de unos calabozos y **2** mas en una sala de descanso superior. Regresa con la info; la party asesina a todos y se pone sus ropas. | Consiguen disfraces y limpian una ruta hacia el interior. |
+| Dia 5 | Torre del Don (calabozos) | Liberan a **Lady Darsen**, vinculada a la linea del **Molino Darsen** y al **Castillo Colmillo Oscuro**. | El gancho Darsen escala y se vuelve personal y politico. |
+| Dia 5 | Torre del Don (cocinas -> banquete) | Cruzan la cocina sin ser vistos y llegan a la sala del banquete. Alli ven a **Algius Fortimer** cenando con **Don Nito Peltre**, varios **nobles con sus hijos** y **caballeros Andi**. | En ese momento, la party queda infiltrada, disfrazada y ante la antesala del ritual o cena. |
+| Dia 5 | Torre del Don (banquete) | **Rakion** planea usar su **granada restante** y **2.5 bolsas de polvora/dinamita minera** para destruir el ritual. Convencen a guardias de irse, aunque uno queda vigilando; Rakion se posiciona, **Zik** apunta a la cabeza de **Algius**, y **Paleas/Lucario** cubren al guardia. | La party decide sabotaje directo, no espionaje ni retirada. |
+| Dia 5 | Torre del Don (ritual) | **Peltre** y **Algius** dan discursos. Algius ofrece un punal a los lores para sacrificar a sus hijos dormidos por un **hechicero Andi tiefling oscuro**. Se revela el velo central: pilares rituales y **3 elfos encadenados**. | Se confirma que el banquete era pacto de sangre y linaje. |
+| Dia 5 | Torre del Don (ritual) | El ritual comienza y **un elfo explota**. Rakion arroja la dinamita/granada y **Zik dispara a la cabeza de Algius**. La explosion revienta el montaje ritual; el disparo impacta a Algius. | Ritual interrumpido o destruido; estado de Algius pendiente. |
+| Dia 5 | Torre del Don (huida) | Guardias atacan; la party gasta un **pergamino de Fog Cloud** y pelea en la niebla. **Lucario** calienta el metal de los guardias y mueren. Los dos elfos restantes sobreviven y pelean contra Peltre. | La party abre ruta de escape, pero queda en persecucion. |
+| Dia 5 | Minas -> puerto | Durante la bajada enfrentan a **dos guerreros Andi simples**, salen por minas y llegan al puerto. El dia se vuelve completamente oscuro; aparecen el **brujo Andi tiefling oscuro**, **2 caballeros Andi** y los **2 elfos sobrevivientes**. | El conflicto escala a combate abierto en el puerto. |
+| Dia 5 | Puerto de Costa Oscura | **Zik** arroja la **pocion de eter celeste**; surge un **celestial guerrero** que obedece su orden y combate al brujo Andi. El chaman elfo contiene o se lleva a un caballero; la party y el otro elfo matan al ultimo caballero. **Lucario** usa **1 pocion de polimorfia**. | El celestial muere a lo lejos; el brujo Andi no vuelve a aparecer. |
+| Dia 5 | Costa Oscura | **Don Nito Peltre** aparece con unos **20 hombres**, pero llegan tropas de **Prontera** en un **zepelin** gracias al aviso de **Albert O'Brien**. Un comandante con **martillo gigante** dirige el ataque. | Prontera toma Costa Oscura; la party sube a **nivel 5**. |
+
+## Estado actual (resumen para retomar)
+- Ubicacion: **Costa Oscura**, despues de la toma de la ciudad por **Prontera**.
+- Condicion: la party sigue en pie y subio a **nivel 5**; **Lucario** viste una armadura pesada robada (**+4 CA, -10 pies de movimiento**).
+- Recursos destacados: **3 pociones de polimorfia**, **3 de plasma negro vivo**, **2 pociones amarillas sin identificar**, **mapas de minas**, **llaves internas**, **50 po** y **2 cartuchos de balas simples**.
+- Costos y gastos: **2 unguentos musgosos** gastados; **2 granadas explosivas** usadas en total; **3 bolsas de dinamita minera** gastadas en total; **pergamino de Fog Cloud** gastado; **1 pocion de eter celeste** gastada; **1 pocion de polimorfia** gastada; mecanismo del escudo de Rakion roto.
+- Amenazas inmediatas: estado de **Algius** pendiente; **Peltre** sobrevivio al menos hasta aparecer con 20 hombres; **brujo Andi tiefling oscuro** no resuelto; Costa Oscura bajo control militar de Prontera.
+- Gancho mayor paralelo: el **Castillo Colmillo Oscuro** ya quedo establecido como la primera gran mazmorra fuerte de la party.
+
+## Hilos abiertos (lista corta)
+- Donde esta **Algius Fortimer** y por que o para quien opera.
+- Que es el **libro antiguo** de Geren y que significa su simbolo.
+- Quien o que **rompio** el ritual (pilar sin sangre) antes de que la party llegue.
+- Que quiere el **Dios Encadenado** de Zik (que es un eslabon en terminos de mundo).
+- Que papel cumple **Don Nito Peltre** (aliado, titere, creyente o rehen).
+- Que vio exactamente **Ebano** en el pantano y como se conecta con los pilares.
+- Si **Algius** sobrevivio al disparo de Zik y a la explosion.
+- Quien es el **brujo Andi tiefling oscuro** del banquete y del puerto, y por que no volvio tras matar al celestial.
+- Quien es el comandante de Prontera del **martillo gigante**.
+- Que son las **2 pociones amarillas restantes** del atico.
+- Que saben **Lady Darsen** y **Leon Darsen** sobre **Harold**, **Maverus Zarnamor**, el Molino y el Castillo Colmillo Oscuro.

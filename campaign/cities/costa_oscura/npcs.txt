@@ -1,0 +1,160 @@
+Costa Oscura - NPCs
+===================
+
+Familia Bonasera (Taberna del Tuerto / La Espiga Rota)
+------------------------------------------------------
+Publico:
+- La Taberna del Tuerto (mapa: punto 3) hospeda forasteros con reglas: pagas, o trabajas.
+
+Integrantes:
+- Leandro (padre): correcto, cansado, mirada que mide amenazas.
+- Sony (hijo): servicial, habla rapido, memoriza nombres.
+- Dedos (hijo): callado, manos inquietas; arregla cosas.
+- Primo (familiar): negociante; hace de puente con arrabal.
+
+DM:
+- Saben cosas por oido y por cuentas. Elegiran bando por supervivencia.
+
+Uso:
+- Escena: "cama por favor" que deriva en crimen chico.
+
+Don Nito Peltre
+---------------
+Publico:
+- Capo de Costa Oscura y anfitrion o poder central de la Torre del Don.
+
+DM:
+- Participa del banquete/ritual junto a Algius y presencia Andi.
+- Tras el sabotaje, sobrevive al menos hasta aparecer en el puerto o la ciudad con unos **20 hombres**.
+- Su poder queda golpeado por la llegada de Prontera, pero no necesariamente eliminado.
+
+Uso:
+- Escena: antagonista politico-criminal que puede quedar como fugitivo, prisionero, colaborador forzado o enemigo desplazado.
+
+Marco Bellucci (muerto)
+-----------------------
+Publico:
+- Maleante que se colaba a dormir sin pagar.
+
+DM:
+- Sobrino de Don Nito Peltre. La party lo mato.
+- Antes de morir dio info sobre una **cena importante** esa noche.
+
+Uso:
+- Escena: consecuencias politicas (buscaran al responsable).
+
+Leon Darsen
+-----------
+Publico:
+- Lord caido en desgracia; borracho pelirrojo de pelo largo que se hospeda en la Taberna del Tuerto.
+- Hermano mayor de **Lady Darsen**.
+
+DM:
+- Los Darsen cayeron cuando **Harold Darsen** hizo un pacto oscuro con **Maverus Zarnamor**, hechicero nigromante milenario.
+- Ese pacto torcio las tierras y el **Molino Darsen** hasta convertirlos en el **Castillo Colmillo Oscuro**.
+- Zarnamor crea **Colmillos**: criaturas mitad humano, mitad lobo, al servicio del castillo.
+- Si la party los ayuda, esto abre la primera gran instancia fuerte de la campana.
+
+Uso:
+- Escena: lord arruinado que parece color local de taberna, pero es la llave emocional y politica del proximo gran arco.
+
+Lady Darsen
+-----------
+Publico:
+- Mujer noble de la linea Darsen; hermana menor de **Leon Darsen**; estaba retenida en un calabozo de la Torre del Don.
+
+DM:
+- La party la libero durante la infiltracion.
+- Conecta de forma directa el **Molino Darsen**, la caida de la familia y el **Castillo Colmillo Oscuro**.
+- Si la party rompe la maldicion y devuelve las tierras, Lady y Leon pueden transformarse en aliados poderosos contra Peltre y sus socios.
+- Puede ser testigo, rehen politica fugada o portadora de una verdad incomoda sobre Peltre y Algius.
+
+Uso:
+- Escena: aliada fragil con informacion de alto valor y costo de proteccion.
+
+La Rata Reina
+-------------
+Publico:
+- Regente del Arrabal del Raton; protectora; astuta; ojo en toda la ciudad.
+
+DM:
+- La Ratonera (mapa: punto 7) es su territorio natural: si te protege, tambien te posee.
+- Cobra en secretos y favores. Puede ofrecer rutas, disfraces, nombres.
+
+Uso:
+- Escena: audiencia en sitio indigno con etiqueta perfecta.
+
+Padre Corvin
+------------
+Publico:
+- Cura cansado y firme. Memoria espiritual de Costa Oscura. Anti-Andii.
+
+DM:
+- El Santuario Profanado (mapa: punto 6) es el templo mayor, pero esta tomado o corrompido.
+- Corvin opera desde un anexo o cripta (resistencia moral) y exige juramentos.
+
+Uso:
+- Escena: confesion sin absolucion; ayuda con costo moral.
+
+El Alquimista del Colmillo
+--------------------------
+Publico:
+- Alquimista local (curas, venenos, soluciones).
+
+DM:
+- Opera cerca del Mercado de la Miseria (mapa: punto 2), donde es facil esconder trueques.
+- Potencial nexo con musgo oscuro y frascos negros. Le interesa "material vivo".
+
+Uso:
+- Escena: trueque por ingredientes personales.
+
+Salitre y Pereza (minas)
+------------------------
+Publico:
+- Capataz y ayudante. Guian por tuneles.
+
+DM:
+- Traicionaron a la party. Usaron frasco negro (musgo oscuro) y pergamino de fuego.
+- Tras morir, dejaron loot util: **llaves**, **mapas de minas**, **50 po** y **2 granadas explosivas**.
+
+Uso:
+- Escena: traicion funcional (eran puerta hacia la Torre del Don por mina).
+
+Tiefling negro (sin identificar)
+--------------------------------
+Publico:
+- Guardian o agente tiefling oscuro dentro de la Torre del Don.
+
+DM:
+- Fue atraido por la magia de Lucario y murio apenas entro en escena.
+- Su armadura paso a Lucario: **+4 CA, -10 pies de movimiento**.
+- Puede haber sido centinela, mensajero o respuesta viva al rastro de eco dentro de la Torre.
+
+Uso:
+- Escena: evidencia de que la Torre responde a la magia como si estuviera viva o vigilada.
+
+Brujo Andi tiefling oscuro
+--------------------------
+Publico:
+- Hechicero Andi que estaba junto a Peltre en el banquete.
+
+DM:
+- Durmio a los hijos de los nobles para que los lores pudieran sacrificarlos.
+- Aparecio luego en el puerto con dos caballeros Andi.
+- El celestial invocado por Zik lo contuvo en una batalla feroz; el celestial murio a lo lejos y el brujo no volvio a aparecer.
+
+Uso:
+- Escena: amenaza mayor recurrente, especialmente conectada al rastro de Lucario, al ancla y al costo de la pocion de eter celeste de Zik.
+
+Comandante de Prontera del martillo gigante
+-------------------------------------------
+Publico:
+- Hombre con un martillo gigante que comando el ataque de Prontera desde el zepelin.
+
+DM:
+- Llego gracias al aviso de Albert O'Brien.
+- Lidero la toma de Costa Oscura.
+- Nombre, rango y agenda quedan pendientes.
+
+Uso:
+- Escena: nuevo poder militar en la ciudad; puede agradecer, interrogar, reclutar o exigir pruebas a la party.

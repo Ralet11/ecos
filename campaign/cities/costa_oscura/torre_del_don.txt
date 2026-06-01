@@ -1,0 +1,234 @@
+# Torre del Don (Peltre) — habitaciones, eventos, loot y acciones
+
+Uso
+---
+- Este archivo es una “caja de herramientas” para correr la intrusión a la **Torre del Don** desde minas.
+- Diseñado para: **ver la cena**, **tocar/interrumpir el ritual**, **huir** (no “limpiar” el castillo).
+
+Resultado jugado (sesion 6)
+---------------------------
+- La party llego al banquete, identifico el ritual y lo saboteo.
+- Rakion uso la granada restante mas 2.5 bolsas de polvora/dinamita minera para reventar el montaje ritual.
+- Zik disparo a la cabeza de Algius durante la explosion; impacto confirmado, estado de Algius pendiente.
+- El ritual mostro pilares y 3 elfos encadenados; uno exploto al comenzar, dos sobrevivieron.
+- La party gasto un pergamino de Fog Cloud para pelear contra guardias durante la huida.
+- Lucario calento el metal de los guardias dentro de la niebla y estos murieron.
+- La party escapo por minas hacia el puerto.
+
+Lectura rápida (layout)
+-----------------------
+- La Torre del Don se asienta sobre un **macizo rocoso**. Debajo no hay sótano “plano”: hay **cisternas y roca horadada**.
+- Conexión clandestina: **Túnel técnico de minas → puerta oculta → subsuelo**.
+- Verticalidad: pocos pasillos, muchas **escaleras**, **rejas** y **puertas de control**.
+
+Arquitectura y materiales (para describirla siempre igual)
+---------------------------------------------------------
+- Implantación: fortaleza chica y compacta sobre **promontorio rocoso**; la roca hace de “muralla natural”. La torre principal mira al mar y a la ciudad a la vez.
+- Piedra: bloques de **piedra gris oscura** con **costra de sal**; juntas repasadas con mortero áspero (y reparaciones frescas donde la guerra “obliga”).
+- Zócalos y drenaje: canaletas talladas directo en la roca, rejillas de hierro y desagües que caen hacia cisternas; olor constante a humedad.
+- Hierro: rejas nuevas, bisagras gruesas, anillas y grilletes “de trabajo”; el metal está siempre frío y húmedo, con óxido comido por bruma.
+- Madera: puertas y vigas de **madera dura** (importada), pero hinchada y oscurecida por brea; escalones que crujen, pasamanos pegajosos de grasa/aceite.
+- Cubiertas: techos inclinados con **pizarra** o teja oscura, chorreando agua; en la terraza hay losas resbalosas con salitre.
+- Interior: pasillos angostos para defender; pisos de laja gastada y alfombras húmedas “para aparentar”. El humo de antorchas se queda bajo por la bruma.
+- Señal de “otra capa”: en puntos de carga/soporte aparece **piedra negra** incrustada como refuerzo (no corresponde a la cantera local). Cerca, la humedad se retrae y el sonido se vuelve más “seco”.
+
+Seguridad (pautas)
+------------------
+- Guardia humana: disciplinada por miedo y paga. Ven y corren a avisar.
+- Presencia Andi: no patrullan “por rutina”; aparecen cuando hay **rastro** o cuando el **ritual** se altera.
+- Regla útil: el castillo es fuerte por **cerrar** (rejas, mamparos, llaves), no por muchos soldados.
+
+Claves físicas (props que siempre podés mostrar)
+------------------------------------------------
+- Sal y brea: costras en piedra, uñas negras, sogas aceitada.
+- Cadenas: poleas, ganchos, grilletes “por seguridad”.
+- Piedra negra (ancla): refuerzos que no corresponden a geología local.
+- Luz como pena (Lucario): cuando “brilla”, revela marcas y atrae miradas.
+
+Relojes sugeridos dentro de la Torre
+-----------------------------------
+- Clock: “Alarma discreta” (0/4): +1 por ruido, cuerpo encontrado, puerta forzada.
+- Clock: “Cierre de rejas” (0/4): en 4/4 quedan compartimentados (salidas cambian).
+- Clock: “Ritual entra en fase” (0/6): sube con el tiempo; si lo tocan, salta 1–2.
+
+Mapa mental por niveles
+-----------------------
+- Nivel -1: Subsuelo (cisterna, sala de rejas, sala de cadenas, almacenes).
+- Nivel 0: Planta baja (patio interior, guardia, cocinas, acceso a salón).
+- Nivel 1: Salón de la cena + galerías/privados.
+- Nivel 2: Oficinas, bóveda, aposentos del Don.
+- Nivel 3+: Terraza/torreón (vigía, señalización; salida de emergencia).
+
+Punto de entrada desde minas (elige 1)
+--------------------------------------
+1) C1 — Cisternas (entrada “silenciosa”)
+   - Señal: olor a agua vieja y sal; goteo constante.
+   - Ventaja: cerca de rejas y rutas técnicas.
+   - Riesgo: humedad + eco; un guardia puede estar “de guardia castigado”.
+
+2) S2 — Sala de cadenas/elevador (entrada “industrial”)
+   - Señal: cadenas gruesas, poleas, marcas recientes de botas.
+   - Ventaja: acceso directo a planta baja.
+   - Riesgo: siempre hay alguien que la usa (turnos, carga).
+
+3) K1 — Pasillo de cocina (entrada “social”)
+   - Señal: calor, grasa, vajilla.
+   - Ventaja: permite disfraz/mezcla con sirvientes.
+   - Riesgo: testigos (sube “Peltre identifica” más rápido).
+
+Habitaciones (con eventos, loot y acciones)
+-------------------------------------------
+
+### Subsuelo
+
+**C1) Cisternas**
+- Ambiente: bóveda baja, agua negra, costra de sal; frío húmedo.
+- Evento: un trapo con símbolo (el mismo del libro) tapando una grieta “que respira” (minúsculo flujo de aire desde túnel).
+- Loot:
+  - Llave maestra de mantenimiento (abre 2–3 puertas técnicas).
+  - 1–2 frascos de aceite + yesca (sirven para incendiar/engrasar rejas).
+- Acciones:
+  - Seguir canaletas para llegar a **C2** sin pasar por guardia.
+  - Crear “falsa fuga” (agua/ruido) para distraer.
+
+**C2) Sala de rejas (compartimentación)**
+- Ambiente: hierro húmedo, barro en huellas, pestillo pesado.
+- Evento: rejas listas para caer: si sube “Alarma discreta”, se oye la cadena que las suelta.
+- Loot:
+  - Llavero con 6–10 llaves (marcadas con números).
+  - Anillo-sello barato de un capataz (sirve como “pase” menor).
+- Acciones:
+  - Cerrar una reja detrás (corta persecución) pero sube “Cierre de rejas”.
+
+**S1) Depósito de frascos negros**
+- Ambiente: estanterías, trapos aceitados, olor a brea + ozono.
+- Evento: un frasco tiene la etiqueta “Salitre” / “Pereza” (o iniciales).
+- Loot:
+  - Musgo oscuro (1–3 frascos pequeños).
+  - Libro de cuentas: entregas “a cocina”, “a santuario”, “a mina profunda”.
+- Acciones:
+  - Plantar evidencia falsa (que el musgo venía de otra facción).
+
+**S2) Sala de cadenas / elevador de carga**
+- Ambiente: engranajes, chirridos, un hueco vertical que sube.
+- Evento: un cargamento “especial” sube o baja durante la cena (perfecto para colarse).
+- Loot:
+  - Guantes de cuero buenos + gancho (trepar/arrastrar).
+  - Cuerda (30 m) o cable metálico.
+- Acciones:
+  - Subir por el elevador (rápido) o por escalera de servicio (silencioso).
+
+### Planta baja
+
+**G1) Patio interior (pequeño)**
+- Ambiente: piedra salada, bruma entrando; antorchas chisporrotean.
+- Evento: ensayo de guardia / cambio de turno (ventana para cruzar).
+- Loot:
+  - 1–2 virotes/munición, capa de guardia (disfraz).
+- Acciones:
+  - Cruzar “en formación” (disfraz).
+  - Trepar a pasarela hacia G2.
+
+**G2) Cuarto de guardia**
+- Ambiente: banco, naipes, sopa salada.
+- Evento: hablan de la “cena” y de que “hoy no hay pilar sin sangre”.
+- Loot:
+  - Salvoconducto simple (papel con sello) para moverse por planta baja.
+  - Silbato/linterna de aceite.
+- Acciones:
+  - Interrogatorio rápido; robar sello; dormirlos con engaño (no matar, si querés bajar “Peltre identifica”).
+
+**K1) Pasillo de cocina**
+- Ambiente: calor, grasa, ruido de platos.
+- Evento: alguien pregunta por “el músico” o por “los de la mina” (gancho directo a la party).
+- Loot:
+  - Disfraz: delantal, gorro, cuchillo de cocina.
+  - Lista de servicio: quién lleva bandejas al salón, quién baja al subsuelo.
+- Acciones:
+  - Cambiar una bandeja (envenenar, salar, robar documentos).
+
+**K2) Despensa salada**
+- Ambiente: sacos de sal, carne curada, barriles.
+- Evento: la sal “correcta” está guardada bajo llave (Sal de Luna NO; sal común).
+- Loot:
+  - Herramientas (cincel, martillo pequeño).
+  - Barril de sal (sirve para rituales improvisados, huellas, trampas).
+- Acciones:
+  - Preparar un círculo de sal en un umbral (control, bloqueo, revelación).
+
+### Nivel 1 (la cena)
+
+**D1) Galería/antesala**
+- Ambiente: alfombra húmeda, velas, perfume barato.
+- Evento: dos criados discuten por una puerta que “no debe abrirse” (D3).
+- Loot:
+  - Carta doblada: “confirmación de invitado” con símbolo.
+- Acciones:
+  - Escuchar la cena sin entrar; identificar nombres, sellos y jerarquías.
+
+**D2) Salón de cena (“La cena importante”)**
+- Ambiente: mesa larga, vino oscuro, carne salada, plata empañada por bruma.
+- Evento (timeline sugerida):
+  1) Brindis por la Bruma / por la guerra.
+  2) Firma/validación (notario o escribano de La Cadena).
+  3) “Señal”: el ritual entra en fase (sube Clock “Ritual entra en fase”).
+- Loot (si se atreven a robar en caliente):
+  - Sello o anillo de invitado.
+  - Documento de entrega: nombres, rutas, “carga” (ambiguo pero ominoso).
+- Acciones:
+  - Interrumpir socialmente (disfraz, acusación, incendio) para crear caos y huir.
+  - Marcar a alguien para seguimiento futuro (pelo, sello, copa).
+
+**D3) Puerta prohibida (umbral del nodo ritual)**
+- Ambiente: la madera “suda”; el metal está frío de un modo no natural.
+- Evento: la puerta vibra cuando el clock del ritual sube; cerca, la luz se “achata”.
+- Loot:
+  - Ninguno gratis: todo lo que se obtenga acá “cobra” (deuda, marca, rastro).
+- Acciones:
+  - Elegir cómo interrumpir (ver “Interrupción del ritual” al final).
+
+### Nivel 2 (poder y papeles)
+
+**O1) Oficina del Don**
+- Ambiente: mapas, cuentas, plumas; olor a cuero y brea.
+- Evento: una carta menciona “Fortimer” o un pago a “Universidad” (semilla directa).
+- Loot:
+  - Libro mayor (prueba de red: mina, santuario, puerto).
+  - 30–120 gp en caja (para sobornos/escape).
+  - Sello de Peltre (alto riesgo).
+- Acciones:
+  - Cambiar una orden (giro de guardias).
+  - Encontrar el “punto de salida” alternativo (O2).
+
+**O2) Puerta de fuga (escalera estrecha a terraza)**
+- Ambiente: escalones mojados, viento.
+- Evento: una campana/linterna de señal (avisos al cuartel Andi).
+- Loot:
+  - Capa impermeable buena, cuerda, gancho.
+- Acciones:
+  - Escapar por altura hacia muralla/acantilado (peligroso, rápido).
+
+Interrupción del ritual (dentro de la Torre)
+-------------------------------------------
+Elegí 1 como “principal” y 1 como “coste/complicación”.
+
+1) Sabotaje del ancla (físico)
+- Qué tocan: piedra negra o su montaje, o un “clavo” en D3.
+- Efecto: el ritual queda torcido (ventana más corta / explosión / falla parcial).
+- Complicación: +2 a “Rastro” y aparece presencia Andi en 1–2 escenas.
+
+2) Contaminar el sello (social/logístico)
+- Qué tocan: sello, contrato, orden de cocina/guardia.
+- Efecto: el mandato “cambia de dueño” o se invalida.
+- Complicación: deuda con La Cadena (o con Peltre) a futuro.
+
+3) Sal en umbral (control)
+- Qué tocan: un umbral clave (D3, cisternas, pasillo de servicio).
+- Efecto: bloquea cruce “de sombra” o revela a quien intente pasar.
+- Complicación: consume tiempo; sube “Refuerzos” o “Cierre de rejas”.
+
+Loot rápido por “éxito parcial” (si huyen a tiempo)
+---------------------------------------------------
+- Un documento con 1 nombre propio importante + 1 lugar (Santuario / Puerto / Mina profunda).
+- Un sello menor (capataz/notario) que permite moverse por Costa Oscura una vez.
+- 1 recurso de escape: cuerda/capa/llave de reja/linterna de aceite.

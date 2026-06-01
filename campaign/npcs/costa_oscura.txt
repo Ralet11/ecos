@@ -1,0 +1,143 @@
+NPCs - Costa Oscura (LEGACY)
+============================
+
+Archivo canonico por ciudad:
+- `campaign/cities/costa_oscura/npcs.txt`
+
+Este archivo queda como compatibilidad y registro historico.
+
+Familia Bonasera (Taberna del Tuerto / La Espiga Rota)
+------------------------------------------------------
+Publico:
+- Familia tabernera conocida por no meterse "en politica" (mienten; sobreviven).
+- La Taberna del Tuerto es punto de descanso para forasteros y tratantes (su alias comun: La Espiga Rota).
+
+Integrantes:
+- Leandro Bonasera (padre): correcto, cansado, mirada que mide amenazas.
+- Sony (hijo): servicial, habla rapido, aprende nombres (y los vende si hace falta).
+- Dedos (hijo): callado, manos inquietas; arregla cerraduras y cuentas.
+- Primo (primo o hijo): negociante, hace de puente con gente del arrabal.
+
+DM:
+- Saben cosas por lo que escuchan. Si se los aprieta, eligen bando segun supervivencia.
+
+Uso:
+- Escena tipica: cama y sopa a cambio de un favor que no parece grande.
+- Foreshadow: sirven comida con sal negra y brea en unas; "hoy hay cena importante".
+
+Marco Bellucci
+--------------
+Publico:
+- Maleante que llevaba dias durmiendo en la taberna sin pagar.
+
+DM:
+- Es sobrino de Don Nito Peltre (dato revelado por la party).
+- Antes de morir suelta informacion sobre una **cena importante** esa misma noche.
+
+Uso:
+- Escena tipica: problema moral barato que sale caro (matarlo = consecuencias politicas).
+- Foreshadow: anillo, sello o recibo que conecte directo con el Don.
+
+Leon Darsen
+-----------
+Publico:
+- Lord caido en desgracia; borracho pelirrojo de pelo largo que balbucea en la taberna.
+- Hermano mayor de **Lady Darsen**.
+
+DM:
+- Los Darsen cayeron cuando **Harold Darsen** hizo un pacto oscuro con **Maverus Zarnamor**, poderoso y milenario hechicero nigromante.
+- El pacto torcio las tierras y el **Molino Darsen** hasta convertirlos en el **Castillo Colmillo Oscuro**.
+- Zarnamor crea **Colmillos**: criaturas mitad humano, mitad lobo, al servicio del castillo.
+- Si la party los ayuda, esto abre la primera gran instancia fuerte de la campana.
+
+Uso:
+- Escena tipica: un lord arruinado que parece color local, pero es llave de campana.
+- Foreshadow: frases repetidas sobre dientes, aullidos y molino que luego se vuelven literales.
+
+Lady Darsen
+-----------
+Publico:
+- Mujer noble de la familia Darsen; hermana menor de **Leon Darsen**; fue hallada prisionera en los calabozos de la Torre del Don.
+
+DM:
+- La party la libero durante la infiltracion.
+- Conecta el Molino Darsen, la ruina de su linaje y el Castillo Colmillo Oscuro.
+- Si la party rompe la maldicion y devuelve las tierras, Lady y Leon pueden convertirse en aliados poderosos.
+- Puede traer verdad util, deuda incomoda o una nueva urgencia politica.
+
+Uso:
+- Escena tipica: rehen rescatada que no sale gratis; sabe demasiado o necesita demasiado.
+
+La Rata Reina
+-------------
+Publico:
+- Regente del Arrabal del Raton. Protectora con los suyos; astuta; parece omnipresente.
+
+DM:
+- Red de informantes (ninos, cargadores, ratas literales o humanas).
+- Puede ser aliada a cambio de precio: favores, secretos, un nombre, el libro, un simbolo.
+
+Uso:
+- Escena tipica: audiencia en un lugar indigno con protocolo perfecto.
+- Foreshadow: sabe cosas que no deberia, pero no dice como.
+
+Padre Corvin (Santuario Profanado)
+----------------------------------
+Publico:
+- Memoria espiritual de la ciudad. Cansado, firme. Oposicion abierta a los Andii.
+
+DM:
+- Puede ofrecer refugio, rituales de contencion o informacion historica.
+- Antagoniza con el pragmatismo de la milicia ("ganar la guerra") y con el Don ("negocio").
+
+Uso:
+- Escena tipica: confesion sin absolucion; ayuda con costo moral (promesas, juramentos).
+- Foreshadow: campanas o simbolos que reaccionan a la presencia Andii o al libro.
+
+El Alquimista del Colmillo
+--------------------------
+Publico:
+- Alquimista local; vende curas, venenos y soluciones.
+
+DM:
+- Potencial nexo con: musgo oscuro, frascos negros, brea, sal y drogas de control.
+- Puede trabajar para el Don o para alguien mas profundo.
+
+Uso:
+- Escena tipica: trueque: ingredientes raros por respuestas raras.
+- Foreshadow: pide algo personal (sangre, una, pelo) para asegurar calidad.
+
+Tiefling negro (sin identificar)
+--------------------------------
+Publico:
+- Agente o guardian tiefling oscuro dentro de la Torre del Don.
+
+DM:
+- Fue atraido por la magia de Lucario y murio en cuanto aparecio.
+- La party robo su armadura; ahora Lucario gana **+4 CA** y pierde **10 pies de movimiento**.
+- Sugiere que la Torre responde activamente al rastro magico.
+
+Uso:
+- Escena tipica: prueba de que el castillo escucha la magia antes que los guardias.
+
+NPCs propuestos (para poblar y sostener tension)
+-----------------------------------------------
+1) Capitana Marea Seca (milicia de Costa Oscura)
+   - Publico: organiza la leva y los turnos de guardia.
+   - DM: odia a los Andii pero negocia con ellos "por estrategia".
+
+2) Notario Greda (La Cadena, version Costa Oscura)
+   - Publico: escribano de contratos y salvoconductos.
+   - DM: vende sellos; cobra en secretos; puede falsificar acceso al castillo y minas.
+
+3) Brumanteador Hueso (tecnico de minas)
+   - Publico: entiende maquinas, cables, cadenas y elevadores.
+   - DM: vio piedra negra en galerias cerradas; teme lo que ancla.
+
+4) Hermana Salina (templo, mano dura)
+   - Publico: atiende heridos sin preguntar.
+   - DM: anti-Andii radical; podria querer purificar a Lucario o a Zik.
+
+5) El Observador Andii (sin nombre)
+   - Publico: sombra alta, ojos rojos, no siempre ataca.
+   - DM: mide rastros; marca a quien brilla (Lucario) para futuras cacerias.

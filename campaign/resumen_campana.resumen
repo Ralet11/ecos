@@ -1,0 +1,205 @@
+Resumen integral de la campana
+==============================
+
+Aclaracion de lectura
+---------------------
+Este archivo separa:
+- lo jugado y confirmado en mesa;
+- el estado actual al cierre de la ultima sesion realmente resumida;
+- y los hilos abiertos que quedan para preparar la proxima sesion.
+
+Hasta donde llega lo confirmado
+-------------------------------
+Lo jugado de forma clara llega hasta el sabotaje del ritual en la Torre del Don, la huida hacia el puerto, la batalla contra fuerzas Andii y la toma de Costa Oscura por tropas de Prontera.
+
+1. El detonante: el caso Fortimer
+---------------------------------
+Todo arranca cuando Lady Valet Fortimer convoca a Zik, Rakion y Lucario en Prontera. La familia Fortimer esta quebrada por dos hechos: Algius Fortimer desaparecio y su hijo mayor, Geren, aparecio muerto cerca de un campamento arqueologico. La party acepta investigar.
+
+En la casa Fortimer encuentran la primera pista fuerte: en el cuarto de Geren hay un libro antiquisimo, ilegible para casi todos salvo Lucario, con anotaciones y simbolos extranos. Al menos uno de esos simbolos es copiado. Tambien se confirma que Algius tenia negocios o vinculos con Don Nito Peltre, capo de Costa Oscura. Desde ese momento la investigacion deja de ser un crimen aislado y pasa a oler a conspiracion ritual, politica y familiar.
+
+2. Viaje al pantano y primer costo serio
+----------------------------------------
+En el camino hacia Hachoverde la party acampa y es atacada por Elfos del Bosque de Hierro. El combate se gana, pero deja marca. Entre el botin quedan una capa de algas y pugnales ceremoniales elficos. Mas adelante Shila, una cazadora elfa del campamento, advierte que esos cuchillos son sacrilegos y no deberian usarse. Ese detalle instala la idea de que la party ya esta tocando cosas viejas, sagradas y peligrosas.
+
+En el campamento arqueologico conocen a varios actores importantes:
+- Albert O'Brien, paleontologo y posible aliado util;
+- Shila y su lobo Camba;
+- Guizhio;
+- miembros de la guardia de Prontera;
+- y el guardia Ebano, que regreso del pantano trastornado, balbuceando verdades.
+
+Tambien aparece Pelligrim, un viejo bravuccon ligado al pasado de Rakion. Zik consigue evitar que lo reconozcan. Eso deja un conflicto social latente para mas adelante.
+
+3. La cueva de los orcos musgosos y la muerte de Zik
+----------------------------------------------------
+Albert necesita ayuda con una amenaza real en el pantano: una cueva de orcos musgosos que ya habia matado gente del equipo. La party entra y se produce un combate muy duro contra orcos y un hechicero. En esa pelea Zik muere.
+
+La muerte de Zik no dura. Su alma es arrastrada hacia una vision de puerta, catedral y cadenas, y termina en el Plano roto de las Cadenas. Ahi el Dios Encadenado lo toma como vasallo y lo devuelve a la vida. El precio no es abstracto: queda marcado por un mandato concreto, "Romper eslabones". Desde ese momento la campana deja de ser solo investigacion y pasa a tener una deuda sobrenatural personal dentro de la party.
+
+En la salida de la cueva consiguen recursos importantes:
+- una varita de canamo con usos tacticos;
+- un unguento verde curativo;
+- y la certeza de que sobrevivir no va a ser gratis.
+
+4. Paleas entra en escena y la magia de Lucario queda expuesta
+--------------------------------------------------------------
+Poco despues aparece Paleas Mucron, inquisidor del Imperio de Gavenor y rastreador de magia. Sigue especificamente el rastro de Lucario. Su llegada confirma una de las reglas centrales del mundo: la magia deja huella y puede ser seguida.
+
+Casi enseguida dos Andii son atraidos por la magia usada en la cueva. Paleas ayuda a enfrentarlos y termina integrandose al grupo. Esto consolida dos verdades:
+- Lucario es un faro peligroso por lo que lleva dentro y por la clase de magia que usa;
+- los Andii no son una amenaza lejana, sino una presencia que ya esta operando alrededor de la party.
+
+5. El ritual roto en Hachoverde
+-------------------------------
+La party llega al sitio crucial del pantano: tres pilares negros y el cuerpo de Geren dividido en tres partes. Dos pilares sangran; uno no. La escena muestra que ahi hubo un ritual incompleto o saboteado. Cuando interactuan con el sitio, el portal se reactiva por un instante y emerge una entidad Andii enorme. En el proceso, la cabeza de Paleas llega a cruzar parcialmente el portal y el inquisidor ve algo espantoso: un ejercito Andii preparandose del otro lado.
+
+La party logra cerrar el portal y derrotar a la criatura, pero el dano narrativo ya esta hecho. La deduccion principal es brutal: el ritual requeria que un familiar sacrificara a su propio hijo, y todo apunta a que Algius Fortimer estuvo implicado, ya sea como autor, complice o pieza atrapada dentro del mecanismo.
+
+Despues de eso, Albert es enviado de regreso a Prontera con la informacion conseguida, mientras el grupo parte hacia Costa Oscura. En ese momento la investigacion ya escalo a amenaza de invasion, conspiracion ritual y corrupcion de linajes.
+
+6. Llegada a Costa Oscura
+-------------------------
+Costa Oscura aparece como una ciudad degradada, industrial, humeda y lista para la guerra. Hay confraternizacion o alineamiento visible con los Andii. La party se aloja en la Taberna del Tuerto, vinculada a la familia Bonasera: Leandro, Sony, Dedos y Primo.
+
+Para conseguir techo o buena voluntad aceptan encargarse de un "maleante" que no paga. El problema es que ese maleante resulta ser Marco Bellucci, sobrino de Don Nito Peltre. La party lo mata, pero antes consigue una pista crucial: esa misma noche hay una cena importante. El favor menor se convierte en un asesinato con consecuencias politicas y en la puerta de entrada a la infiltracion de la Torre del Don.
+
+En paralelo aparece Leon Darsen, lord caido en desgracia que ahora vive borracho en la misma taberna. Es el hermano mayor de Lady Darsen y la cara viva de una casa arruinada por una maldicion mucho mas grande que un simple rumor local.
+
+Ese hilo gana mucho peso con el nuevo trasfondo de la familia. Los Darsen cayeron cuando Harold Darsen hizo un pacto oscuro con Maverus Zarnamor, un poderoso y milenario hechicero nigromante. El precio fue devastador: las tierras y el viejo Molino Darsen quedaron retorcidos hasta convertirse en el Castillo Colmillo Oscuro. Desde entonces Zarnamor transforma hombres en Colmillos, criaturas mitad humanas y mitad lobo que le sirven. Esto deja marcado con claridad que el arco Darsen no es un desvio menor, sino la primera gran instancia o dungeon fuerte de la party. Si logran romper la maldicion y devolver las tierras a la casa Darsen, ganaran un aliado poderoso.
+
+7. Las minas, la traicion y el paso sucio hacia la Torre
+--------------------------------------------------------
+Buscando una entrada clandestina hacia la Torre del Don, la party recurre a las minas de Costa Oscura. Ahi contactan con el capataz Salitre y su ayudante Pereza. Todo sale mal: traicionan al grupo.
+
+Durante ese episodio:
+- Salitre intenta obligar a Zik a tragar musgo oscuro, pero las Cadenas lo rechazan;
+- luego usa un pergamino de bola de fuego;
+- Lucario y Paleas quedan fuera de combate.
+
+Rakion sostiene el momento critico y gasta los dos unguentos musgosos para levantar por completo a Lucario y Paleas. El grupo saquea a los traidores y consigue recursos decisivos:
+- manojo de llaves;
+- mapas de las minas;
+- 50 piezas de oro;
+- 2 granadas explosivas.
+
+La party cruza una compuerta y llega a una camara con seis salidas. Segun los mapas, tres llevan a la Torre. Eligen la ruta mas vieja, cubierta de telaranas, y avanzan por una seccion abandonada. Esa decision los saca del circuito principal y les abre una via secundaria al castillo.
+
+8. La cueva de aranas y el atico de pociones
+--------------------------------------------
+La ruta vieja termina en una cueva con una arana grande y dos crias. El combate se resuelve, pero Rakion gasta una granada y, en ese sector, consigue tres bolsas de dinamita minera, de las cuales ya queda media bolsa consumida.
+
+Despues de esa pelea la party emerge dentro de la Torre del Don, en un atico o deposito de pociones. Ahi obtiene un botin muy relevante:
+- 4 pociones de polimorfia;
+- 3 pociones de plasma negro vivo;
+- 2 pociones amarillas sin identificar.
+
+Rakion intenta reparar su escudo, falla y rompe el mecanismo. Aun asi logra fabricar dos cartuchos de balas simples. La escena refuerza su rol de solucionador practico, pero tambien deja claro que cada improvisacion cuesta algo.
+
+9. El tiefling negro, los guardias y Lady Darsen
+------------------------------------------------
+Ya dentro de la Torre, Lucario intenta curarse y vuelve a activar el mismo patron de siempre: su magia atrae algo peligroso. Esta vez aparece un tiefling negro. La party lo mata apenas entra y se queda con su armadura. Lucario pasa a tener una mejora importante de defensa, +4 CA, a cambio de perder movilidad, -10 pies de movimiento.
+
+Luego Zik explora el interior y detecta:
+- 3 guardias cerca de los calabozos;
+- 2 guardias en una sala de descanso superior.
+
+El grupo mata a los cinco, se pone sus ropas y profundiza la infiltracion. En los calabozos liberan a Lady Darsen, hermana menor de Leon Darsen, que queda conectada de forma directa con la linea Darsen, el Molino y el Castillo Colmillo Oscuro. A partir de ahi la party ya no solo entra a espiar: tambien lleva consigo una testigo y una carga.
+
+10. El banquete en la Torre del Don
+-----------------------------------
+Disfrazados y sin ser detectados, cruzan la cocina y llegan finalmente a la sala del banquete. Ahi ven juntos a los principales actores de la conspiracion:
+- Algius Fortimer;
+- Don Nito Peltre;
+- varios nobles;
+- los hijos de esos nobles;
+- caballeros Andi.
+
+Rakion decide convertir los recursos mineros en un golpe directo al ritual: todavia tiene 1 granada explosiva y 2.5 bolsas de polvora o dinamita minera. Desde el balcon, la party convence a varios guardias de retirarse, aunque uno queda vigilando. Rakion se posiciona para lanzar los explosivos, Zik apunta a la cabeza de Algius, y Paleas y Lucario cubren al guardia que permanece cerca.
+
+Peltre y Algius dan sus discursos. Algius saca un punal y lo ofrece a los lores para que maten a sus propios hijos, que habian sido dormidos por un hechicero Andi tiefling oscuro ubicado junto a Peltre. Luego Algius revela un velo o carpa en el centro de la sala: debajo estan los pilares del ritual y, encadenados en el centro, tres elfos.
+
+El ritual empieza y uno de los elfos explota. En ese momento Rakion arroja la dinamita y la granada, mientras Zik dispara a la cabeza de Algius. La explosion revienta el montaje ritual y el disparo alcanza a Algius, aunque su estado exacto queda pendiente. La sala entra en caos.
+
+La party es atacada por guardias. Usan el pergamino de Fog Cloud para cubrirse en una bola de niebla y pelean dentro de ella. Lucario calienta el metal de los guardias, que mueren por el calor. Rakion ve que los dos elfos restantes se salvaron y que estan peleando contra Peltre.
+
+11. Huida, puerto y caida de Costa Oscura
+----------------------------------------
+La party baja y, durante la retirada, enfrenta a dos guerreros Andi simples. Logra salir hacia las minas y escapar por los tuneles hasta el puerto.
+
+Al salir, el dia se vuelve completamente oscuro. Aparecen el hechicero Andi tiefling oscuro, dos caballeros Andi y los dos elfos sobrevivientes. El brujo Andi demuestra ser demasiado fuerte para la party.
+
+Zik arroja la pocion de eter celeste que habia robado; no era una de las pociones amarillas sin identificar. De ella surge un celestial guerrero que obedece una orden de Zik. Zik le ordena combatir contra el brujo Andi, y ambos se traban en una batalla feroz.
+
+Mientras tanto, el chaman elfo se lleva o contiene a uno de los caballeros Andi. Quedan el otro elfo y la party contra el ultimo caballero Andi. Lucario bebe una pocion de polimorfia y el grupo logra matar al caballero. A lo lejos se escucha morir al celestial, pero el brujo Andi no vuelve a aparecer.
+
+Cuando parece que la situacion esta bajo control, Don Nito Peltre aparece con unos 20 hombres. Entonces llegan las tropas de Prontera: Albert O'Brien habia dado aviso tras los sucesos de Hachoverde. Las tropas llegan en un zepelin con tecnologia de Prontera, comandadas por un hombre con un martillo gigante. Prontera toma Costa Oscura.
+
+La party sube a nivel 5.
+
+Estado actual al cierre
+-----------------------
+Ubicacion:
+- Costa Oscura, despues de la toma de la ciudad por tropas de Prontera;
+- la Torre del Don y el puerto quedaron atravesados por el sabotaje del ritual y el choque con fuerzas Andii.
+
+Condicion narrativa de cada uno:
+- Zik regreso de la muerte y quedo atado al Dios Encadenado;
+- Zik tambien invoco, mediante una pocion de eter celeste, un celestial guerrero que murio conteniendo al brujo Andi;
+- Lucario carga una luz o pena que atrae enemigos y rastreadores, usa una armadura pesada robada y gasto una pocion de polimorfia en la batalla final;
+- Rakion gasto todos sus explosivos mineros relevantes para destruir o torcer el ritual de la Torre;
+- Paleas confirmo que detras del portal hay preparacion Andii organizada y sobrevivio a la huida.
+
+Recursos y botin importantes:
+- llaves internas;
+- mapas de minas;
+- 50 po;
+- 3 pociones de polimorfia;
+- 3 pociones de plasma negro vivo;
+- 2 pociones amarillas sin identificar;
+- armadura del tiefling negro;
+- 2 cartuchos de balas simples.
+
+Costos ya pagados:
+- 2 unguentos musgosos gastados;
+- 2 granadas explosivas usadas en total;
+- 3 bolsas de dinamita minera gastadas en total, contando media bolsa previa y las 2.5 usadas en el sabotaje;
+- pergamino de Fog Cloud gastado;
+- 1 pocion de eter celeste gastada para invocar al celestial;
+- 1 pocion de polimorfia gastada por Lucario;
+- mecanismo del escudo de Rakion roto;
+- muerte y resurreccion de Zik;
+- mayor exposicion del rastro magico de Lucario.
+
+Grandes revelaciones acumuladas
+-------------------------------
+1. La magia del eco deja rastro y atrae enemigos.
+2. Los portales no son transporte limpio: son heridas ancladas con piedra negra, sangre, linaje y precio.
+3. El caso Fortimer no es un simple secuestro o asesinato: es parte de una operacion ritual de escala mayor.
+4. Geren fue usado de forma atroz en un ritual asociado a tres pilares negros.
+5. Algius esta vinculado de algun modo central al ritual, a Peltre y a la investigacion del libro.
+6. Los Andii tienen presencia organizada y, aparentemente, un ejercito esperando del otro lado.
+7. Costa Oscura no era solo una ciudad tomada por criminales: era una plataforma logistica, industrial y ritual.
+8. El arco Darsen ya esta configurado como la primera gran mazmorra fuerte del grupo y como una posible fuente de alianza politica futura.
+9. El banquete era un mecanismo de pacto de sangre y linaje: nobles preparados para sacrificar a sus hijos bajo direccion de Algius, Peltre y un hechicero Andi.
+10. Prontera ya intervino militarmente y tomo Costa Oscura gracias al aviso de Albert O'Brien.
+
+Hilos abiertos principales
+--------------------------
+- Si Algius Fortimer sobrevivio al disparo de Zik y a la explosion del ritual.
+- Que es el libro de Geren y que significa el simbolo copiado.
+- Quien saboteo el ritual anterior o por que uno de los pilares habia quedado sin sangre.
+- Que quiere concretamente el Dios Encadenado de Zik cuando exige "romper eslabones".
+- Que rol verdadero tiene Don Nito Peltre tras el fracaso del ritual y la toma de Costa Oscura.
+- Que paso con el hechicero Andi tiefling oscuro despues de matar al celestial.
+- Quien es el comandante de Prontera del martillo gigante.
+- Que saben los elfos sobrevivientes sobre el ancla, los pilares y los sacrificios.
+- Que vio Ebano en el pantano y como encaja con los pilares.
+- Que son exactamente las dos pociones amarillas restantes.
+- Que saben Lady Darsen y Leon Darsen sobre Harold, Maverus Zarnamor, el Molino y el Castillo Colmillo Oscuro.
+- Hasta donde llega la amenaza Andii y cuan avanzada esta la invasion pese a la derrota del ritual local.
+- Como cambia Costa Oscura ahora que Prontera la tomo por la fuerza.
+
+Resumen en una frase
+--------------------
+La campana paso de una investigacion por la desaparicion de Algius y la muerte de Geren a una guerra abierta contra una red de pactos, piedra negra, linajes sacrificados, intereses criminales y presencia Andii organizada: la party saboteo el ritual de la Torre del Don, sobrevivio al puerto, vio llegar a Prontera en zepelin para tomar Costa Oscura y quedo en nivel 5 con el Castillo Colmillo Oscuro aun marcado como su primer gran desafio de mazmorra.

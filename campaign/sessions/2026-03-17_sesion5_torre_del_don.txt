@@ -1,0 +1,107 @@
+# Sesión 5 — Resumen jugado
+
+Fecha fuera de juego
+--------------------
+- 2026-03-17
+
+Punto de partida
+----------------
+- La sesión retoma en las minas, tras la traición de Salitre y Pereza.
+- Lucario y Paleas estaban caídos por la bola de fuego.
+
+Resumen de lo que ocurrió
+-------------------------
+1) Recuperación y saqueo
+- Rakion gasta sus **2 ungüentos musgosos** para curar completamente a **Lucario** y **Paleas**.
+- La party saquea los cadáveres y obtiene:
+  - **manojo de llaves**
+  - **mapas de las minas**
+  - **50 piezas de oro**
+  - **2 granadas explosivas**
+
+2) Avance por compuertas
+- Cruzan la compuerta y llegan a una nueva cámara con **6 compuertas**.
+- Según los mapas, **3** de esas rutas llevan al castillo.
+- Eligen la puerta que parecía **más vieja**.
+- Al abrirla encuentran **telarañas** y un tramo abandonado.
+
+3) Cueva de arañas
+- Avanzan por la ruta vieja hasta una última cueva.
+- Allí combaten contra **una araña grande y dos crías**.
+- Rakion usa **1 granada** contra la araña.
+- En esa cueva, Rakion consigue **3 bolsas de dinamita minera**, pero ya gastó **media**.
+
+4) Ático de pociones
+- Tras la última puerta, suben a un **ático/depósito de pociones** dentro de la Torre del Don.
+- Loot obtenido:
+  - **4 pociones de polimorfia**
+  - **3 pociones de plasma negro vivo**
+  - **2 pociones amarillas** aún sin identificar
+
+5) Recursos y costo técnico
+- Rakion intenta arreglar su escudo.
+- Falla y el **mecanismo del escudo se rompe**.
+- Aun así, fabrica **2 cartuchos de balas simples**.
+
+6) Tiefling negro atraído por Lucario
+- Lucario intenta curarse.
+- Ese uso de magia atrae a un **tiefling negro**.
+- La party lo mata apenas entra y roba su armadura.
+- Efecto actual en Lucario:
+  - **+4 CA**
+  - **-10 pies de movimiento**
+
+7) Reconocimiento interno
+- Zik sale a explorar.
+- Detecta:
+  - **3 guardias** en la zona de calabozos
+  - **2 guardias** en una sala de descanso más arriba
+- Vuelve y comparte la información.
+- La party mata a los cinco guardias y se viste con sus ropas.
+
+8) Lady Darsen
+- Liberan a **Lady Darsen** de un calabozo.
+- Queda conectada de forma directa con la línea del **Molino Darsen** y del **Castillo Colmillo Oscuro**.
+
+9) Infiltración al banquete
+- Suben, cruzan la cocina sin ser vistos y llegan a la **sala del banquete**.
+- Allí ven una celebración en curso.
+- Presentes confirmados:
+  - **Algius Fortimer**
+  - **Don Nito Peltre**
+  - varios **nobles**
+  - los **hijos** de esos nobles
+  - **caballeros Andi**
+
+Punto de corte
+--------------
+- La sesión termina con la party infiltrada y disfrazada dentro de la Torre del Don, observando el banquete y a sus actores clave antes de intervenir.
+
+Estado actual de recursos
+-------------------------
+- Gastado:
+  - **2 ungüentos musgosos**
+  - **1 granada explosiva**
+  - **media bolsa de dinamita minera**
+- Dañado o roto:
+  - mecanismo del escudo de Rakion
+- Obtenido:
+  - **manojo de llaves**
+  - **mapas de minas**
+  - **50 po**
+  - **1 granada explosiva restante**
+  - **2.5 bolsas de dinamita minera**
+  - **4 pociones de polimorfia**
+  - **3 pociones de plasma negro vivo**
+  - **2 pociones amarillas sin identificar**
+  - armadura del tiefling negro
+  - **2 cartuchos de balas simples**
+
+Elementos abiertos para la próxima sesión
+-----------------------------------------
+- Qué se celebra exactamente en el banquete.
+- Qué papel juega **Algius** ahí.
+- Qué función cumplen los **nobles y sus hijos**.
+- Si el banquete precede, tapa o forma parte de un **ritual masivo**.
+- Qué son las **2 pociones amarillas**.
+- Qué sabe **Lady Darsen** y qué pide a cambio.

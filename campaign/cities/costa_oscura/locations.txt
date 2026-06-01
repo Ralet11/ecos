@@ -1,0 +1,63 @@
+Costa Oscura — lugares de interés
+================================
+
+Resumen de tono
+---------------
+Una ciudad que huele a sal vieja y brea fresca. Acaba de cambiar de manos como quien despierta despues de un funeral: con humo, prisa y preguntas peligrosas. La sombra aqui no es falta de luz: es acuerdo.
+
+Estado actual
+-------------
+- Prontera tomo Costa Oscura tras el sabotaje del ritual de la Torre del Don.
+- Las tropas llegaron en zepelin, comandadas por un hombre con martillo gigante.
+- El puerto fue escenario de la batalla contra el brujo Andi tiefling oscuro y los caballeros Andi.
+
+Mapa (referencia)
+-----------------
+- Ver `lore/Ciudades/costas oscura/0d1d5f8d-d0c0-46e1-9fe2-e23098393220.jpg`.
+
+Distritos y puntos calientes (según mapa)
+----------------------------------------
+1) Puerto Sombrío
+   - Sensorial: muelles de madera podrida, sal vieja, brea fresca; gaviotas que no cantan.
+   - Uso: contrabando, entrada/salida de gente, rumores que llegan por mar.
+   - Detalle: controlado por mafiosos y tieflings; todo tiene peaje.
+
+2) Mercado de la Miseria
+   - Sensorial: puestos desarmados, lonas mojadas, olor a pescado viejo y aceite.
+   - Uso: compra/venta “gris”, mano de obra, chismes de turnos y patrullas.
+   - Detalle: la guardia cobra “impuestos” abusivos; ideal para sembrar pistas rápidas.
+   - Nota: “El Colmillo” (alquimia) opera cerca del mercado o dentro de él (según convenga).
+
+3) Taberna del Tuerto (alias: “La Espiga Rota”)
+   - Sensorial: madera hinchada por humedad, sopa salada, humo que no sube.
+   - Uso: base temporal, favores, rumores, ganchos.
+   - Detalle: todo el mundo escucha; la familia Bonasera sobrevive por saber cuándo callar.
+
+4) Cuartel de los Andi (Andi Barracks)
+   - Sensorial: hierro mojado, botas en fila, antorchas que chisporrotean.
+   - Uso: presencia militar/ocupación “normalizada”; punto de choque o infiltración.
+   - Detalle: no es solo guarnición: es vigilancia y selección de “útiles”.
+
+5) Torre del Don (antes: “Fortaleza del Don”)
+   - Sensorial: piedra con costra de sal; rejas nuevas; viento que silba entre almenas.
+   - Uso: objetivo de infiltración/negociación; “cena importante”.
+   - Detalle: el complejo se asienta sobre un gran macizo rocoso. Lo que está “debajo” no es sótano: es piedra horadada.
+
+6) Santuario Profanado (ex templo mayor)
+   - Sensorial: piedra fría, cera rancia, incienso cortado con ozono; campanas con eco “corto”.
+   - Uso: historia, juramentos, conflicto moral; posible núcleo ritual.
+   - Detalle: Padre Corvin sigue siendo la memoria espiritual de la ciudad, pero opera a la sombra (cripta/anexo) porque el santuario está tomado o corrompido.
+
+7) La Ratonera (en el Arrabal del Ratón)
+   - Sensorial: callejones como intestino, pasos que se escuchan demasiado cerca.
+   - Uso: refugio, información, trato con La Rata Reina.
+   - Detalle: la protección cuesta: nombres, secretos, deuda.
+
+8) Puerta de la Bruma
+   - Sensorial: muralla húmeda, aliento blanco, faroles con vidrio sucio.
+   - Uso: entrada principal; controles; toque de queda.
+   - Detalle: buen lugar para “Costa Oscura cierra puertas” (clock) y para persecuciones.
+
+No marcado en mapa (subterráneo)
+--------------------------------
+- Minas (túneles y galerías): crujidos, cadenas, poleas; aire que corta la garganta. Acceso clandestino a la Torre del Don. Frascos negros, musgo oscuro, pergaminos; algo “ancla” en profundidad.
